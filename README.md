@@ -5,3 +5,4 @@ This is an example repository for Git tutorial. I have learned this before but I
 This repository is built step by step in the tutorial.
 
 My name is Opeyemi Adedotun.
+I develop websites and design digital products.
