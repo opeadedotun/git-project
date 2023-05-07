@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 My name is Opeyemi Adedotun.
 I develop websites and design digital products.
 I am having some hard time running a pull request.
+
+I am trying out another method to ensure the pull request works.
