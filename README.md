@@ -9,3 +9,5 @@ I develop websites and design digital products.
 I am having some hard time running a pull request.
 
 I am trying out another method to ensure the pull request works.
+
+Got the pull request to work. Then added some description to the images.
